@@ -1,0 +1,70 @@
+[{
+	"min-rssi": 0,
+	"max-rssi": -25,
+	"distance": 0.1
+},
+{
+	"min-rssi": -26,
+	"max-rssi": -30,
+	"distance": 0.25
+},
+{
+	"min-rssi": -31,
+	"max-rssi": -35,
+	"distance": 0.5
+},
+{
+	"min-rssi": -36,
+	"max-rssi": -40,
+	"distance": 0.75
+},
+{
+	"min-rssi": -41,
+	"max-rssi": -45,
+	"distance": 1
+},
+{
+	"min-rssi": -46,
+	"max-rssi": -50,
+	"distance": 1.5
+},
+{
+	"min-rssi": -51,
+	"max-rssi": -55,
+	"distance": 2
+},
+{
+	"min-rssi": -56,
+	"max-rssi": -60,
+	"distance": 2.5
+},
+{
+	"min-rssi": -61,
+	"max-rssi": -65,
+	"distance": 3
+},
+{
+	"min-rssi": -66,
+	"max-rssi": -70,
+	"distance": 3.5
+},
+{
+	"min-rssi": -71,
+	"max-rssi": -75,
+	"distance": 4
+},
+{
+	"min-rssi": -76,
+	"max-rssi": -80,
+	"distance": 4.5
+},
+{
+	"min-rssi": -81,
+	"max-rssi": -85,
+	"distance": 5
+},
+{
+	"min-rssi": -86,
+	"max-rssi": -120,
+	"distance": 6
+}]

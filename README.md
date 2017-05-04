@@ -1,2 +1,4 @@
-# indoor_absolute_localization
-Indoor absolute localization using BLE beacons
+# README #
+
+RADIO indoor localization algorithm, using BLE beacons.
+

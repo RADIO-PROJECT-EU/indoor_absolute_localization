@@ -1,0 +1,31 @@
+[{
+	"zone_id": "Zone 1",
+	"min_distance": 0,
+	"max_distance": 1,
+	"include": true
+},
+{
+	"zone_id": "Zone 1",
+	"min_distance": 1.01,
+	"max_distance": 2,
+	"include": true
+},
+{
+	"zone_id": "Zone 1",
+	"min_distance": 2.01,
+	"max_distance": 3,
+	"include": true
+},
+{
+	"zone_id": "Zone 4",
+	"min_distance": 3.01,
+	"max_distance": 4,
+	"include": false
+},
+{
+	"zone_id": "Zone 5",
+	"min_distance": 4.01,
+	"max_distance": 5,
+	"include": false
+}
+]

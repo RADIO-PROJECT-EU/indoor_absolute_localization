@@ -1,0 +1,14 @@
+[{
+	"address": "B0:B4:48:C4:4A:87",
+	"location_x": 4.1,
+	"location_y": 4.1,
+	"height": 0.35,
+	"max_rssi": -1,
+	"min_rssi": -100,
+	"major": 1,
+	"minor": 1,
+	"tx_power": -59,
+	"company_id": "0x000D",
+	"active": true
+}
+]
